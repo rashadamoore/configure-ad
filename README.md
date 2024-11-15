@@ -43,7 +43,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screenshot (24)](https://github.com/user-attachments/assets/a5a9f535-e8a0-4cea-8b39-5a8196418929)
+
+
 </p>
 <p>
 <h3><strong>Configuration Steps</strong></h3>
