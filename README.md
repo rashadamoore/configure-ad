@@ -52,6 +52,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h3><strong>Post-Deployment Steps</strong></h3>
+<ol start="8"><li><p><strong>Set Up Users and Groups</strong>:</p><ul><li>Use <strong>Active Directory Users and Computers (ADUC)</strong> to create user accounts and groups.</li></ul></li><li><p><strong>Apply Group Policies</strong>:</p><ul><li>Use <strong>Group Policy Management</strong> to configure domain-wide policies.</li></ul></li><li><p><strong>Enable Redundancy and Backups</strong>:</p><ul><li>Add a secondary domain controller for fault tolerance.</li><li>Set up Azure Backup for regular backups.</li></ul></li></ol>
 </p>
 <br />
