@@ -55,7 +55,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/aa99a317-fb4d-41de-ad03-8a55a67a3c2e)
+
+
 </p>
 <p>
 <h3><strong>Post-Deployment Steps</strong></h3>
